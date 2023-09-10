@@ -4,6 +4,7 @@
 
 <h1 align="center">I'm @soobeencn 👋</h1>
 <h3 align="center">A passionate Blockchain R&D Engineer from GZ</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soobeencn&label=Profile%20views&color=0e75b6&style=flat" alt="soobeencn" /> </p>
 
 - 🔭 I’m currently working on **crypto-trading**
 - 🌱 I’m currently learning **quant & blockchain infra**
