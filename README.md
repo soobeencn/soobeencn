@@ -15,7 +15,7 @@
 - ⚡ Fun fact: **e.g. swim**
 <h3 align="left">STAT:</h3>
 <div align="left" style="display: flex; justify-content: flex-start; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobeencn&hide=javascript,html,css,Batchfile,Makefile&layout=compact" alt="Top Languages" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobeencn&hide=javascript,html,css,Batchfile,Makefile" alt="Top Languages" height="195">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=soobeencn&show_icons=true" alt="Your Github Stats" height="195"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soobeencn&" alt="soobeencn's Streak" height="195">
 </div>
