@@ -13,17 +13,16 @@
 - 💬 Ask me about **Ethereum EEA, DApp, DeFi, Oracle**
 - 📫 How to reach me: **soobeencn@gmail.com** & wechat: **pwnpub_cn**
 - ⚡ Fun fact: **e.g. swim**
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobeencn&hide=javascript,html,css,Batchfile,Makefile,Kotlin" alt="Your Github Stats">
-  <br>
-  <br>
-  🌟 From soobeencn(https://github.com/soobeencn)
+<h3 align="left">Stat:</h3>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobeencn&hide=javascript,html,css,Batchfile,Makefile,Kotlin" alt="Top Languages" height="195">
+  <img src="https://github-readme-stats.vercel.app/api?username=soobeencn&show_icons=true" alt="Your Github Stats" height="195">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soobeencn&" alt="soobeencn's Streak" height="195">
 </div>
+<br>
+🌟 From <a href="https://github.com/soobeencn">soobeencn</a>
 
-<!-- <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soobeencn&show_icons=true" alt="Your Github Stats">
-  <br>
-  <br>
-  🌟 From soobeencn(https://github.com/soobeencn)
-</div> -->
+
+
+
+
