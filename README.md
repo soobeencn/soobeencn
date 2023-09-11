@@ -4,15 +4,16 @@
 
 <h1 align="center">I'm @soobeencn 👋</h1>
 <h3 align="center">A passionate Blockchain R&D Engineer from GZ</h3>
+<h4 align="center"><a href="pwnpub.readthedocs.io">watch my docs</a></h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soobeencn&label=Profile%20views&color=0e75b6&style=flat" alt="soobeencn" /> </p>
 
 - 🔭 I’m currently working on **crypto-trading**
 - 🌱 I’m currently learning **quant & blockchain infra**
 - 👯 I’m looking to collaborate on **crypto-trading**
 - 🤔 I’m looking for help with **Design a blockchain infrastructure**
-- 💬 Ask me about **Ethereum EEA, DApp, DeFi, Oracle**
+- 💬 Ask me about **layer1, Ethereum EEA, DApp, DeFi, Oracle**
 - 📫 How to reach me: **soobeencn@gmail.com** & wechat: **pwnpub_cn**
-- ⚡ Fun fact: **e.g. swim**
+- ⚡ Fun fact: **e.g. swim, drink...**
 <h3 align="left">STAT:</h3>
 <div align="left" style="display: flex; justify-content: flex-start; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobeencn&hide=javascript,html,css,Batchfile,Makefile" alt="Top Languages" height="195">
