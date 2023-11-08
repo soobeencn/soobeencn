@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **quant & blockchain infra**
 - 👯 I’m looking to collaborate on **crypto-trading**
 - 🤔 I’m looking for help with **Design a blockchain infrastructure**
-- 💬 Ask me about **layer1, Ethereum EEA, DApp, DeFi, Oracle**
+- 💬 Ask me about **layer1, Ethereum EEA, DApp, DeFi**
 - 📫 How to reach me: **soobeencn@gmail.com** & wechat: **pwnpub_cn**
 - ⚡ Fun fact: **e.g. swim, drink...**
 <h3 align="left">STAT:</h3>
