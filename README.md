@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with **Design a blockchain infrastructure**
 - 💬 Ask me about **layer1, Ethereum EEA, DApp, DeFi**
 - 📫 How to reach me: **soobeencn@gmail.com** & wechat: **pwnpub_cn**
-- ⚡ Fun fact: **e.g. swim, drink...**
+- ⚡ Fun fact: **e.g. swim, tennis, drink...**
 <h3 align="left">STAT:</h3>
 <div align="left" style="display: flex; justify-content: flex-start; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobeencn&hide=javascript,html,css,Batchfile,Makefile" alt="Top Languages" height="195">
